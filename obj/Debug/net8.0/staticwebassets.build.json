@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BscWp8qZvkTOqEcX4GoPKnyRYKYYWGaUvr7D+LBSth4=",
+  "Source": "SkillMatchAPI",
+  "BasePath": "_content/SkillMatchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

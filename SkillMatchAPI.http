@@ -1,0 +1,6 @@
+@SkillMatchAPI_HostAddress = http://localhost:5053
+
+GET {{SkillMatchAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
