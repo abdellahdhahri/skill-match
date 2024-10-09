@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillMatchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208dbc4a0b7b1b8a9a84738f176f9ab3f8900813")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillMatchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillMatchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
